@@ -26,3 +26,11 @@ Power BI can connect to the following types of data sources:
 - APIs: Custom-built or third-party applications and services.
 - On-Premises Data Gateways: Securely connect to on-premises databases and file servers.
 Power BI offers a wide range of connectivity options, enabling users to extract and analyze data from various sources, both on-premises and in the cloud.
+
+### 3)What is Building Blocks in Power BI?
+- Visualizations: Visual representations of data, such as pie charts, line graphs, and maps.
+- Datasets: Collections of data from various sources like Excel sheets or SQL databases.
+- Reports: Collections of visualizations organized on one or more pages.
+- Dashboards: Single-page presentations of multiple visualizations for a consolidated view.
+- Tiles: Individual visualizations within a report or on a dashboard.
+These building blocks enable users to analyze and present data effectively in Power BI.
