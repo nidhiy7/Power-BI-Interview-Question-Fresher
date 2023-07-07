@@ -1,5 +1,5 @@
 # Top 50 Question - Power BI Fresher
 
 
- ##General Question
+ ## -General Question
 1)
