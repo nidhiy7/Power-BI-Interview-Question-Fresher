@@ -62,3 +62,23 @@ A)The Power BI tools available are:
 - Power Map – It allows the creation of geospatial data representations.
 - Power Q/A –  It allows the use of natural language to get answers.**
 
+*** 7)
+
+ ## Power BI  — DAX
+
+ *** 11) 
+ -DAX (Data Analysis Expressions) is a formula language used in Power BI to create custom calculations and aggregations. It enables users to define measures, calculated columns, and tables to perform complex calculations and build advanced analytical models.
+ -It is a collection of constants, operators, and functions to create an expression for calculating values.
+- DAX works on column values.
+- DAX can not modify or insert data.
+- We can create calculated columns and measures with DAX but we can not calculate rows using DAX.
+
+- Here is a basic sample for DAX expression.
+
+Total Sales = SUM(Sales[SalesAmount])
+
+-Total Sales – It is the measure name that will take the calculated values.
+-SUM – It is the DAX function for summing up the values.
+-Parenthesis () – This is the parenthesis from which the function takes the argument (value passed to the function).
+-Sales – It is the table name from where we want to pick the values.
+-SalesAmount – It is the column name of the table where the values are present.
