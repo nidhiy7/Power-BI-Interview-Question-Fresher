@@ -34,3 +34,22 @@ Power BI offers a wide range of connectivity options, enabling users to extract 
 - Dashboards: Single-page presentations of multiple visualizations for a consolidated view.
 - Tiles: Individual visualizations within a report or on a dashboard.
 These building blocks enable users to analyze and present data effectively in Power BI.
+
+### 4)What are the different types of filters in Power BI Reports?
+n Power BI Reports, there are several types of filters available:
+
+- Visual-level filters: These filters are applied to individual visualizations and affect only the data displayed within that specific visual.
+- Page-level filters: These filters are applied to an entire page within the report and impact all the visualizations on that page.
+- Report-level filters: These filters are applied to the entire report and affect all the pages and visualizations within it.
+- Drillthrough filters: These filters allow users to navigate from one page to another, passing specific filter values to the target page for more detailed analysis.
+- 
+### 5)What are the content packs in Power BI?
+
+### 6) Name the types of Power BI tools and components ?
+The Power BI tools available are:
+
+- Power BI Desktop – The desktop tool for computers.
+- Power BI Service – Online SaaS tool that can be accessed using any browser.
+- Power BI Mobile – Portable tool for mobile users with Android and iOS operating systems.
+- Power BI Report Builder – Special tool for creating paginated reports.
+
