@@ -115,3 +115,16 @@ SUMMARIZECOLUMNS, ISEMPTY, VAR
 1) TotalQuantitySold = SUM(Sales[QuantitySold])
 2) TotalSalesAmount = SUMX(Sales, Sales[QuantitySold] * Sales[UnitPrice])
 
+### 21) What is Power Pivot?
+Ans: - Power Pivot is an add-in for Microsoft Excel 2010 that enables you to import millions of rows of data from multiple data sources into a single Excel workbook.   
+- It helps you build a data model, relationships, creating formulas, calculated columns, Pivot Tables, and Pivot Charts from multiple resources.
+
+### 22) How many active relations can we have between two tables in Power Pivot? 
+
+We can only have one active relationship between tables at a time. When a relationship is active (represented with a continuous line), all other relationships will be inactive (represented with a dotted line).
+
+### 23)  What is the limitation of Power Pivot over Power Query?
+
+Power Query is an ETL (Extract, Transform & Load) tool that allows extracting data from various sources and manipulate data based on your need. In contrast, Power Pivot can load data but can not manipulate or transform.
+
+### 24) 
