@@ -53,3 +53,11 @@ The Power BI tools available are:
 - Power BI Mobile – Portable tool for mobile users with Android and iOS operating systems.
 - Power BI Report Builder – Special tool for creating paginated reports.
 
+  **  Some important components in the Power BI toolkit are: **
+
+- Power Query – It allows to load and transform data from various sources.
+- Power Pivot – It is a data modelling tool in Power BI.
+- Power View – It is a presentation tool for creating tables, charts, and many more.
+- Power Map – It allows the creation of geospatial data representations.
+- Power Q/A –  It allows the use of natural language to get answers.
+
