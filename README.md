@@ -82,3 +82,30 @@ Total Sales = SUM(Sales[SalesAmount])
 - Parenthesis () – This is the parenthesis from which the function takes the argument (value passed to the function).
 - Sales – It is the table name from where we want to pick the values.
 - SalesAmount – It is the column name of the table where the values are present.
+
+### 12) Name some common DAX functions
+
+Here are some common DAX functions that are used frequently.
+
+- Aggregation Functions: SUM, MIN, MAX, AVG, COUNTROWS, DISTINCTCOUNT
+- Logical Functions: IF, AND, OR, SWITCH
+- Information Functions: ISBLANK, ISFILTERED, ISCROSSFILTERED
+- Filter Functions: VALUES, ALL, FILTER, CALCULATE, TOPN
+- Date & Time Functions: DATEDIFF, DATEVALUE
+- Statistical Functions: GEOMEAN, MEDIAN
+- Other Functions: UNION, INTERSECT, EXCEPT, NATURALINNERJOIN, NATURALLEFTEROUTERJOIN,
+SUMMARIZECOLUMNS, ISEMPTY, VAR
+
+### 13) What is special or unique about the CALCULATE and CALCULATETABLE functions?
+ These are the only functions that allow you to modify the filter context of measures or tables.
+
+- Add to the existing filter context of queries.
+- Override filter context from queries.
+- Remove existing filter context from queries.
+
+### 14) What are calculated columns and measures?
+
+- Calculated columns are the additional column that we create and calculate using DAX expressions.
+- On the other hand, measures are also calculated using DAX expressions but do not add up in the data tables in any form. Calculated columns are evaluated at each row, and measures are only evaluated at the level of granularity where they are plotted.
+
+- 
