@@ -108,4 +108,10 @@ SUMMARIZECOLUMNS, ISEMPTY, VAR
 - Calculated columns are the additional column that we create and calculate using DAX expressions.
 - On the other hand, measures are also calculated using DAX expressions but do not add up in the data tables in any form. Calculated columns are evaluated at each row, and measures are only evaluated at the level of granularity where they are plotted.
 
-- 
+### 15) What is the difference between SUM and SUMX functions in DAX?
+- The SUM function calculates the sum of a column or expression within a given context, while the SUMX function iterates over a table and performs a sum calculation for each row.
+- SUMX is useful when you need to perform calculations on a row-by-row basis or when working with virtual tables created by DAX functions.
+
+1) TotalQuantitySold = SUM(Sales[QuantitySold])
+2) TotalSalesAmount = SUMX(Sales, Sales[QuantitySold] * Sales[UnitPrice])
+
