@@ -95,6 +95,7 @@ Here are some common DAX functions that are used frequently.
 - Statistical Functions: GEOMEAN, MEDIAN
 - Other Functions: UNION, INTERSECT, EXCEPT, NATURALINNERJOIN, NATURALLEFTEROUTERJOIN,
 SUMMARIZECOLUMNS, ISEMPTY, VAR
+- Time Intelligence Functions: DAX offers a set of specialized functions for time intelligence analysis. These functions, such as TOTALYTD, SAMEPERIODLASTYEAR, and DATESBETWEEN, allow for calculations based on specific time periods, year-to-date analysis, and comparisons across different time frames.
 
 ### 13) What is special or unique about the CALCULATE and CALCULATETABLE functions?
  These are the only functions that allow you to modify the filter context of measures or tables.
@@ -115,6 +116,9 @@ SUMMARIZECOLUMNS, ISEMPTY, VAR
 1) TotalQuantitySold = SUM(Sales[QuantitySold])
 2) TotalSalesAmount = SUMX(Sales, Sales[QuantitySold] * Sales[UnitPrice])
 
+
+ ## Power BI  — Power Pivot
+ 
 ### 21) What is Power Pivot?
 Ans: - Power Pivot is an add-in for Microsoft Excel 2010 that enables you to import millions of rows of data from multiple data sources into a single Excel workbook.   
 - It helps you build a data model, relationships, creating formulas, calculated columns, Pivot Tables, and Pivot Charts from multiple resources.
@@ -123,8 +127,38 @@ Ans: - Power Pivot is an add-in for Microsoft Excel 2010 that enables you to imp
 
 We can only have one active relationship between tables at a time. When a relationship is active (represented with a continuous line), all other relationships will be inactive (represented with a dotted line).
 
+### 23)  What is xVelocity in-memory analytics engine used in Power Pivot?
+The xVelocity in-memory analytics engine, used in Power Pivot, is a highly optimized columnar database engine designed to provide fast and efficient data processing capabilities.
+
+
 ### 23)  What is the limitation of Power Pivot over Power Query?
 
 Power Query is an ETL (Extract, Transform & Load) tool that allows extracting data from various sources and manipulate data based on your need. In contrast, Power Pivot can load data but can not manipulate or transform.
 
-### 24) 
+
+ ## Power BI  — Power Query 
+ 
+### 24) What is Power Query?
+
+Power Query is a tool for ETL (Extract, Transform & Load) data with a simple GUI. It allows users to extract data from multiple sources, transform data with their needs and load the final data in the system
+
+### 25)  What are the destinations for output in Power Query?
+
+There are two destinations for Power Query output: load to a table in the worksheet and load to an excel data model
+
+### 26) What is some common Power Query/Editor Transforms?
+ Changing Data Types, Filtering Rows, Choosing/Removing Columns, Grouping, Splitting a column into multiple columns, Adding new Columns, etc.
+
+### 27)  Which language is used in Power Query?
+A new programming language is used in a power query called M-Code. It is easy to use and similar to other languages. M-code is case sensitive language. 
+
+
+ ## Power BI  — Power  Map
+
+### 28) What is Power Map?
+
+Power Map is a tool for the geographical representation of data in a Bing map. It also supports 3D representation with a collection of millions of geo-coded data points. It gives users the ability to create geographical visualization of data.
+
+### 29) What are the primary data requirements for using Power Map?
+
+The table loaded in Power Map should have location-based information like latitude, longitude, country, region, state, province, city, zip/pin code, etc.
