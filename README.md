@@ -186,6 +186,10 @@ The table loaded in Power Map should have location-based information like latitu
 ## 31) How to compare target and actual value in Power BI?
 Using Gauge charts, we can compare two different measures, including the target and actual value.
 
-## 32)
+## 32) What are the types of visualizations in Power BI?
+Visualization is a graphical representation of data. We can use visualizations to create reports and dashboards. The kinds of visualizations available in Power BI are Bar charts, Column charts, Line chart, Area chart, Stacked area chart, Ribbon chart, Waterfall chart, Scatter chart, Pie chart, Donut chart, Treemap chart, Map, Funnel chart, Gauge chart, Cards, KPI, Slicer, Table, Matrix, R script visual, Python visual, etc.
 
 ## Power BI - Advanced Question
+
+## 32) What do we understand by Power BI services?
+
