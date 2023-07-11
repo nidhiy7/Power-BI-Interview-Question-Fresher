@@ -192,4 +192,12 @@ Visualization is a graphical representation of data. We can use visualizations t
 ## Power BI - Advanced Question
 
 ## 32) What do we understand by Power BI services?
+Power BI provides services for its cloud-based business analytics. With these services, you can view and share reports via the Power BI website. Power BI is a web-based service for sharing reports. Power BI service can be best referred to as PowerBI.com, PowerBI workspace, PowerBI site, or PowerBI portal
+
+## 33) What are some of the disadvantages or risks that we should look out for as we use Power BI?
+- One of the biggest disadvantages of using Power BI is that their cloud-based solution (Power BI Service) is locked into the Microsoft ecosystem. Only those with a Microsoft 365 account and Power BI PRO subscription can access reports and dashboards.
+- Power BI desktop only works on Windows and cannot be installed on machines that run MacOS or Linux
+- Power BI cannot accept file sizes larger than 1 GB.
+
+## 34)
 
