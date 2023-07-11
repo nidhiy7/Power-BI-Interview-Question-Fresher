@@ -177,8 +177,15 @@ The table loaded in Power Map should have location-based information like latitu
 - Pie charts
 - Maps
 - Tiles
--Cards
+- Cards
 - Tables
 - Multiples Visualizations
 - Bubble and scatter charts
 - Key performance indicators (KPIs)
+
+## 31) How to compare target and actual value in Power BI?
+Using Gauge charts, we can compare two different measures, including the target and actual value.
+
+## 32)
+
+## Power BI - Advanced Question
