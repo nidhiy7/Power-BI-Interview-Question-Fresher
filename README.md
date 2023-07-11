@@ -162,3 +162,23 @@ Power Map is a tool for the geographical representation of data in a Bing map. I
 ### 29) What are the primary data requirements for using Power Map?
 
 The table loaded in Power Map should have location-based information like latitude, longitude, country, region, state, province, city, zip/pin code, etc.
+
+ ## Power BI  — Power  View
+
+ ### 30) What is Power View?
+ Power View is a data visualization technology to create interactive graphs, charts, maps, and many other visuals. It helps in analyzing the data patterns and generating meaningful insights. Power View is 
+ available for multiple tools and platforms like Excel, SharePoint, SQL Server, and Power BI.
+ The following pages provide details about different visualizations available in Power View:
+
+ The following pages provide details about different visualizations available in Power View:
+
+- Charts
+- Line charts
+- Pie charts
+- Maps
+- Tiles
+-Cards
+- Tables
+- Multiples Visualizations
+- Bubble and scatter charts
+- Key performance indicators (KPIs)
