@@ -216,5 +216,5 @@ Power BI Services offers several key features and functionalities:
 - Power BI desktop only works on Windows and cannot be installed on machines that run MacOS or Linux
 - Power BI cannot accept file sizes larger than 1 GB.
 
-## 34)
-
+## 34)What is Power BI Q&A?
+- Power BI Q&A is a feature that allows users to ask questions in natural language and get insights from their data.It uses advanced algorithms to interpret the user's intent and generates visualizations based on the queried data.Users can refine their queries and ask follow-up questions to explore the data further.Power BI Q&A makes data analysis more accessible and user-friendly, bridging the gap between non-technical users and data insights.
