@@ -192,7 +192,24 @@ Visualization is a graphical representation of data. We can use visualizations t
 ## Power BI - Advanced Question
 
 ## 32) What do we understand by Power BI services?
-Power BI provides services for its cloud-based business analytics. With these services, you can view and share reports via the Power BI website. Power BI is a web-based service for sharing reports. Power BI service can be best referred to as PowerBI.com, PowerBI workspace, PowerBI site, or PowerBI portal
+Power BI is a business analytics tool developed by Microsoft that provides interactive visualizations and business intelligence capabilities. Power BI Services, also known as Power BI cloud or Power BI Online, refers to the cloud-based platform where users can publish, share, collaborate on, and access Power BI reports and dashboards.
+
+Power BI Services offers several key features and functionalities:
+
+- Dashboards: Users can create interactive dashboards by combining multiple visualizations, reports, and data sources.
+
+- Reports: Power BI allows users to create detailed reports with interactive visualizations and data exploration capabilities.
+- Data Connectivity: Power BI Services supports connectivity to a wide range of data sources, both on-premises and cloud-based. It offers native connectors for popular data sources such as Excel, SQL Server, SharePoint, Dynamics 365, Salesforce, and many others.
+
+- Data Transformation: Power Query, a data transformation and mashup tool within Power BI, enables users to clean, shape, and combine data from different sources. It provides an intuitive interface for performing data preparation tasks, such as merging tables, filtering data, and applying transformations.
+
+- Collaboration and Sharing: Power BI Services allows users to collaborate and share reports and dashboards with others in their organization. Users can control access permissions, publish content to specific workspaces, and collaborate in real-time by sharing and commenting on reports.
+
+- Mobile Access: Power BI offers native mobile apps for iOS and Android devices, enabling users to access and interact with reports and dashboards on the go. The mobile apps provide a responsive and optimized experience for viewing and analyzing data on mobile devices.
+
+- Data Refresh and Scheduled Refresh: Power BI Services supports automatic data refresh for reports and dashboards. Users can define data refresh schedules to keep the visualizations up-to-date with the latest data from the underlying data sources.
+
+- Integration with Other Tools: Power BI integrates with other Microsoft tools and services such as Azure Data Factory, Azure Analysis Services, Excel, and SharePoint. It also supports embedding Power BI content into custom applications or websites using APIs and embedding capabilities.
 
 ## 33) What are some of the disadvantages or risks that we should look out for as we use Power BI?
 - One of the biggest disadvantages of using Power BI is that their cloud-based solution (Power BI Service) is locked into the Microsoft ecosystem. Only those with a Microsoft 365 account and Power BI PRO subscription can access reports and dashboards.
