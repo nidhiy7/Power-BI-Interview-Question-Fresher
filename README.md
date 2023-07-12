@@ -218,3 +218,25 @@ Power BI Services offers several key features and functionalities:
 
 ## 34)What is Power BI Q&A?
 - Power BI Q&A is a feature that allows users to ask questions in natural language and get insights from their data.It uses advanced algorithms to interpret the user's intent and generates visualizations based on the queried data.Users can refine their queries and ask follow-up questions to explore the data further.Power BI Q&A makes data analysis more accessible and user-friendly, bridging the gap between non-technical users and data insights.
+
+## 35) How can you integrate Power BI with other Microsoft products and services, such as Azure and SQL Server?
+Integrating Power BI with other Microsoft products and services:
+
+- Power BI integrates seamlessly with Azure services like Azure Data Factory, Azure SQL Database, and Azure Analysis Services.
+- Integration with SQL Server allows direct connectivity to on-premises data sources.
+- SharePoint integration enables embedding Power BI reports and dashboards within SharePoint sites.
+
+## 36)What are the best practices for data modeling in Power BI?
+- Create a star schema or snowflake schema to simplify relationships and optimize performance.
+- Use descriptive naming conventions for tables, columns, and measures.
+- Avoid circular dependencies and unnecessary relationships.
+- Normalize or denormalize tables based on data usage patterns.
+
+## 37) How can you optimize DAX calculations for better performance in Power BI?
+
+- Minimize the use of calculated columns and prefer measures for aggregations.
+- Use CALCULATE and CALCULATETABLE functions efficiently to filter and modify calculations.
+- Use table variables or temporary tables to store intermediate results.
+- Consider using query folding to push some calculations back to the data source.
+
+## 38) 
