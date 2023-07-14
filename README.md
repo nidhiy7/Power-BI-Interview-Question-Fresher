@@ -239,4 +239,12 @@ Integrating Power BI with other Microsoft products and services:
 - Use table variables or temporary tables to store intermediate results.
 - Consider using query folding to push some calculations back to the data source.
 
-## 38) 
+## 41) What is PowerBI Gateway ?
+- The Power BI Gateway is a tool that facilitates the connection between on-premises data sources and the cloud-based Power BI service.
+-  It enables secure data transfer and ensures data freshness in Power BI reports and dashboards
+-  There are two types of Power BI Gateways:
+1)Power BI Personal Gateway:
+- The Power BI Personal Gateway is designed for individual users and allows them to refresh their own datasets and reports.
+- The Personal Gateway is installed on the user's computer and manages the data connectivity and refresh for their specific Power BI content.
+   
+
