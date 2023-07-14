@@ -239,6 +239,13 @@ Integrating Power BI with other Microsoft products and services:
 - Use table variables or temporary tables to store intermediate results.
 - Consider using query folding to push some calculations back to the data source.
 
+##38) What are KPIs in Power BI?
+- KPIs (Key Performance Indicators) in Power BI are visual elements that show the performance of specific metrics against predefined goals. \
+- Examples :
+1) Sales Revenue KPI: This KPI measures the total sales revenue against a target or goal. It may use a trend analysis to show the performance over time, indicating whether the revenue is above or below the target.
+
+
+
 ## 41) What is PowerBI Gateway ?
 - The Power BI Gateway is a tool that facilitates the connection between on-premises data sources and the cloud-based Power BI service. It enables secure data transfer and ensures data freshness in Power BI reports and dashboards
 -  There are two types of Power BI Gateways:
@@ -251,5 +258,6 @@ Integrating Power BI with other Microsoft products and services:
 - The Power BI On-premises Data Gateway is designed for enterprise use and enables centralized management and shared dataset refreshes.
 -  It is suitable for scenarios where multiple users or teams need to access on-premises data sources and ensure data consistency across Power BI content.
 -  The On-premises Data Gateway is installed on a server within the organization's network and allows for scheduling and managing data refreshes for multiple datasets and reports.
-   
+
+## 42) 
 
