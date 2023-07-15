@@ -189,9 +189,19 @@ Using Gauge charts, we can compare two different measures, including the target 
 ## 32) What are the types of visualizations in Power BI?
 Visualization is a graphical representation of data. We can use visualizations to create reports and dashboards. The kinds of visualizations available in Power BI are Bar charts, Column charts, Line chart, Area chart, Stacked area chart, Ribbon chart, Waterfall chart, Scatter chart, Pie chart, Donut chart, Treemap chart, Map, Funnel chart, Gauge chart, Cards, KPI, Slicer, Table, Matrix, R script visual, Python visual, etc.
 
+## 33) What are the different views available in Power BI Desktop? 
+- Report View - In this view, users can add visualizations and additional report pages and publish the same on the portal.
+
+- Data View - In this view, data shaping can be performed using Query Editor tools.
+
+- Model View - In this view, users can manage relationships between complex datasets.
+
+## 34)  What is a Slicer?
+- A slicer in Power BI is an interactive visual control that allows users to filter data by selecting specific values from a list.
+- When applied, slicers dynamically update other visualizations on the report page to display data relevant to the chosen filters, enabling easy data exploration and analysis.
 ## Power BI - Advanced Question
 
-## 32) What do we understand by Power BI services?
+## 35) What do we understand by Power BI services?
 Power BI is a business analytics tool developed by Microsoft that provides interactive visualizations and business intelligence capabilities. Power BI Services, also known as Power BI cloud or Power BI Online, refers to the cloud-based platform where users can publish, share, collaborate on, and access Power BI reports and dashboards.
 
 Power BI Services offers several key features and functionalities:
